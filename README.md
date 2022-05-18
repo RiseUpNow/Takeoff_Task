@@ -1,5 +1,4 @@
 # Takeoff_Task
-my task
 
 Приветствую :)
 Данные для авторизации email: alfa@yandex.ru password: 1111
